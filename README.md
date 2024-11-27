@@ -19,6 +19,7 @@ Key Python packages used:
 - `scikit-learn`
 - `shap`
 - `matplotlib`
+- `skopt`
 
 ## Usage
 1. Preprocess the dataset (`SMART_Trial_Weight_Features.csv`) for model training.
